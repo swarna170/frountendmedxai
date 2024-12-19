@@ -1,0 +1,20 @@
+.model-content {
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.model-content h2 {
+  font-size: 2em;
+  margin-bottom: 15px;
+  color: #003366;
+}
+
+.model-content p {
+  font-size: 1.1em;
+  color: #666;
+}
